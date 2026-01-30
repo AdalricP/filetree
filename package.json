@@ -1,0 +1,13 @@
+{
+  "name": "filetree",
+  "version": "1.0.0",
+  "description": "Live file tree viewer",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "filetree": "./index.js"
+  },
+  "dependencies": {
+    "chokidar": "^4.0.1"
+  }
+}

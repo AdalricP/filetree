@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Live file tree viewer",
   "type": "module",
-  "main": "index.js",
+  "main": "src/index.js",
   "bin": {
-    "filetree": "./index.js"
+    "filetree": "./src/index.js"
   },
   "dependencies": {
     "chokidar": "^4.0.1"
